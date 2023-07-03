@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">xiv_android</string>
+
+    <string name="fc_url">https://xivapi.com/freecompany/ \(fc_id) ?data=FCM</string>
+    <string name="cr_url">https://xivapi.com/character/ \(cr_id) ?data=CJ</string>
+</resources>
